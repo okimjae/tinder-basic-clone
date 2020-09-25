@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14979199414",
+    "firebase_url": "https://chihuahua-sacurae.firebaseio.com",
+    "project_id": "chihuahua-sacurae",
+    "storage_bucket": "chihuahua-sacurae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14979199414:android:635db0a578540787211117",
+        "android_client_info": {
+          "package_name": "com.chihuahua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14979199414-5utt9bcuh7l8e3r84bbl43f43s4chbbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9AoY0OzbFixK3CDScUFP4QJR6GrjrF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14979199414-5utt9bcuh7l8e3r84bbl43f43s4chbbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
