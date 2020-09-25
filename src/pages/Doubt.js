@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import {
     StyleSheet,
-    ScrollView,
+    ScrollView, 
     Image,
     View,
     Text,
